@@ -1,0 +1,55 @@
+body{
+    padding-left: 50px;
+    font-family: 'Times New Roman', Times, serif
+}
+.YT{
+    color: #0dcaf0;
+}
+.Insta{
+    color: teal;
+}
+.Tlgm{
+    color: #2f0df0;
+}
+.Youtube{
+    color: #0dcaf0
+}
+.Instagram{
+    color: teal
+}
+.GitHub{
+    color: #2f0df0;
+}
+.Ash{
+    color: #adb5bd;
+}
+.Lrn{
+    color: green;
+}
+.html{
+    color: rgb(43, 122, 122);
+}
+.HT{
+    color: #2CB836;
+}
+.M{
+    color: #2CB836;
+}
+.L{
+    color: #2CB836;
+}
+.abc{
+    padding-left: 15px;
+}
+.Tags_Color{
+    color: red;
+}
+.List_Tags{
+    color: yellowgreen;
+}
+.Table_Tags{
+    color: #8B008B;
+}
+.Form_Tags{
+    color: Magenta;
+}
