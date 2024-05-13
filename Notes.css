@@ -11,6 +11,9 @@ body{
 .Tlgm{
     color: #2f0df0;
 }
+.fb{
+    color: purple;
+}
 .Youtube{
     color: #0dcaf0
 }
@@ -18,6 +21,12 @@ body{
     color: teal
 }
 .GitHub{
+    color: yellowgreen;
+}
+.Facebook{
+    color: purple;
+}
+.Telegram{
     color: #2f0df0;
 }
 .Ash{
